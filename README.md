@@ -1,5 +1,5 @@
 # react-native-calculator
-project developed with react-native
+Project of a calculator developed using react-native
 
 ## :heavy_check_mark: Techniques and technologies used
 
